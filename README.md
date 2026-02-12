@@ -1,4 +1,4 @@
-# HAIrexercises.com — README (v1)
+# Hairexercises.com — README (v1)
 **Hair habits. Scalp health. Younger-looking hair — built as a mega website.**  
 **Pure HTML / CSS / JavaScript. Fast. Searchable. Trustworthy.**
 
