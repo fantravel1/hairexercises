@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage (EN/ES/FR) -->
+  <url>
+    <loc>https://hairexercises.com/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hairexercises.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hairexercises.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hairexercises.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hairexercises.com/"/>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/es/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hairexercises.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hairexercises.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hairexercises.com/fr/"/>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/fr/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hairexercises.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hairexercises.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hairexercises.com/fr/"/>
+  </url>
+
+  <!-- Hair Types Hub -->
+  <url>
+    <loc>https://hairexercises.com/hair-types/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Hair Type Pages -->
+  <url>
+    <loc>https://hairexercises.com/hair-types/straight/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/hair-types/wavy/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/hair-types/curly/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/hair-types/coily/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/hair-types/thinning/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Scalp Hub -->
+  <url>
+    <loc>https://hairexercises.com/scalp/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/scalp/oily/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/scalp/dry/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/scalp/sensitive/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Goals Hub -->
+  <url>
+    <loc>https://hairexercises.com/goals/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/goals/keep-hair-young/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/goals/reduce-breakage/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/goals/improve-scalp-health/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Habits Hub -->
+  <url>
+    <loc>https://hairexercises.com/habits/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/habits/scalp-massage-5-min/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/habits/shower-technique-low-friction/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hairexercises.com/habits/pillowcase-hair-protection/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Thinning Support -->
+  <url>
+    <loc>https://hairexercises.com/thinning/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Stories -->
+  <url>
+    <loc>https://hairexercises.com/stories/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

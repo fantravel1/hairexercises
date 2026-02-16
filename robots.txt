@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hairexercises.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Allow all content pages
+Allow: /hair-types/
+Allow: /scalp/
+Allow: /goals/
+Allow: /habits/
+Allow: /thinning/
+Allow: /stories/
+Allow: /es/
+Allow: /fr/
